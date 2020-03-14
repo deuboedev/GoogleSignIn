@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956564594391",
+    "firebase_url": "https://sign-in-g3774.firebaseio.com",
+    "project_id": "sign-in-g3774",
+    "storage_bucket": "sign-in-g3774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956564594391:android:0c2b0c5e9934b387fa9a92",
+        "android_client_info": {
+          "package_name": "id.deuboe.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956564594391-2tl9egohp7gtsk0bf4lcp1cl6mct16gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACW6cMxaV8io6_RVYBzWGKpX4k5QK3Y4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956564594391-2tl9egohp7gtsk0bf4lcp1cl6mct16gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
